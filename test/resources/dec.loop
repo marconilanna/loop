@@ -1,0 +1,8 @@
+t = 0
+loop a {
+  r = 0
+  loop t {
+    r = r + 1
+  }
+  t = t + 1
+}

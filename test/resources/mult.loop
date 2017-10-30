@@ -1,0 +1,6 @@
+r = 0
+loop a {
+  loop b {
+    r = r + 1
+  }
+}
